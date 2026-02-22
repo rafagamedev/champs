@@ -3,7 +3,7 @@ function Home() {
     <h1>
       Queria meu bissim...
       <img
-        src="https://chatgpt.com/s/m_699a87fac7a48191b81ceb98e79188bc"
+        src="https://i.ibb.co/NnN0PH6L/5ac6ee0e-a457-4ca6-8eb2-de556c00ee18.png"
         style={{ maxWidth: "100%", height: "auto" }}
       />
     </h1>
